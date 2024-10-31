@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WordApp</string>
+    <string name="add_word">Add Word</string>
+    <string name="no_word_yet">No word yet</string>
+    <string name="new_word">New Word</string>
+    <string name="delete_word">Delete Word</string>
+    <string name="delete_all">Delete All</string>
+</resources>
